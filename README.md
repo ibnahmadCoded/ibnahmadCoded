@@ -53,11 +53,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [New Scholarship Opportunities and AI Conferences](https://www.youtube.com/watch?v=zERHjlCF6mE)
+- [New Scholarship Opportunities and AI Conferences #3](https://www.youtube.com/watch?v=CXxO1jMvfxw)
+- [New Scholarship Opportunities and AI Conferences #2](https://www.youtube.com/watch?v=zERHjlCF6mE)
 - [How to Solve Any Palindromes Centered Code Challenge](https://www.youtube.com/watch?v=1qzfhRw5k2Q)
-- [Scholarships and Other Opportunities During the Coronavirus Pandemic.](https://www.youtube.com/watch?v=hngzztWvXuA)
+- [Scholarships and Other Opportunities During the Coronavirus Pandemic. #1](https://www.youtube.com/watch?v=hngzztWvXuA)
 - [ASCII Codes - Understanding and Using them in Python](https://www.youtube.com/watch?v=DC0HMoSQHLA)
-- [How to Filter Data with Python](https://www.youtube.com/watch?v=vQ39tw8IOi8)
 <!-- YOUTUBE:END -->
 
 ---
