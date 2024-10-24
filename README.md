@@ -64,8 +64,6 @@
 
 ---
 
-<img align="left" alt="ibnahmadCoded's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ibnahmadCoded&show_icons=true&hide_border=true" />
-
 [website]: https://alegeaa.com
 [twitter]: https://twitter.com/AlegeAliyu
 [youtube]: https://www.youtube.com/channel/UC0eQYXl1VQOLZgIzSVu6tGA
