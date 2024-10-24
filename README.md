@@ -1,10 +1,6 @@
 ### Hi there, I'm Aliyu - aka [Mr Learner][website] 👋
 
-## I'm a Husband, Father, Engineer, Researcher, Developer, and Teacher!
-- 🔭 I’m currently working on a [Folders Merger Application][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators, researchers and devs
-- 🥅 2020 Goals: Complete all OSSU Courses
+## I'm a Developer and Researcher!
 - ⚡ Fun fact: I love to draw, play/watch football, write poems and read books 
 
 ### Connect with me:
